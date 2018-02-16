@@ -12,5 +12,8 @@
     "start": "lite-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies" :{
+    "systemjs" : "^0.21.00"
+  }
 }
